@@ -59,7 +59,7 @@ export default function Hero() {
                 </Gravity>
             </div>
             <h1 className='hero-primcharlin__title mt-10 text-5xl font-semibold leading-tight'>
-                Primcharlin
+                PRIMCHARLIN
             </h1>
             <div className='mt-6 grid gap-10 md:grid-cols-[1.1fr_0.9fr]'>
                 <div>
